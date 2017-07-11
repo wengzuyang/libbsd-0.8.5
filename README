@@ -1,3 +1,5 @@
+可交叉编译
+
 libbsd - Utility functions from BSD systems
 
 This library provides useful functions commonly found on BSD systems,
